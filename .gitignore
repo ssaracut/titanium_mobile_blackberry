@@ -4,3 +4,6 @@
 src/tibb/arm
 src/tibb/x86
 build
+src/ticore/arm
+src/ticore/x86
+src/tibb/config.pri
